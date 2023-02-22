@@ -1,0 +1,31 @@
+[ {
+  "uid" : "45ae388dfb7c3ed7",
+  "name" : "查询用户抽奖次数收支明细接口_001",
+  "time" : {
+    "start" : 1676973146365,
+    "stop" : 1676973146534,
+    "duration" : 169
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9894993ca092aff3",
+  "name" : "查询用户抽奖次数收支明细接口_001",
+  "time" : {
+    "start" : 1676973146024,
+    "stop" : 1676973146195,
+    "duration" : 171
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3df5157b1b05f5",
+  "name" : "查询用户抽奖次数收支明细接口_001",
+  "time" : {
+    "start" : 1676973146197,
+    "stop" : 1676973146363,
+    "duration" : 166
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

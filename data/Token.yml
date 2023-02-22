@@ -1,0 +1,14 @@
+---
+Token:
+  dec: "获取token"
+  parameters:
+    -
+      desc: "获取token"
+      url: "{}://{}:{}/uc/api/v1/userToken/user/getUserToken"
+      header: {
+                "Content-Type": "application/json",
+                "Accept": "application/json"
+             }
+      body: {
+        "name": "YWRtaW4="
+      }

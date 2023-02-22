@@ -1,0 +1,76 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_case",
+    "children" : [ {
+      "name" : "a-service",
+      "children" : [ {
+        "name" : "test_lottery001",
+        "children" : [ {
+          "name" : "查询用户抽奖次数收支明细接口_001",
+          "uid" : "9894993ca092aff3",
+          "parentUid" : "e1f565f78e78defef090b00cd9b56805",
+          "status" : "passed",
+          "time" : {
+            "start" : 1676973146024,
+            "stop" : 1676973146195,
+            "duration" : 171
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "{'版本': 'MIGUMS2.10.0.0_Mirror', '模块': 1, '作者': 'Q', '用例名称': 'test_lottery001', '用例标题': '查询用户抽奖次数收支明细接口_001', '功能': '拆盲盒', '请求方式': 'post', '请求地址': 'https://t-xiaofa-gateway.aegis-info.com/mall-lawyer/activity/lottery/times/use', '请求头': '{\"Content-Type\":\"application/json\"}', 'token': 1, '请求参数': '{\\n        \"platform\": \"XIAOFA_MINGLV\",\\n        \"eventTypes\": [\"SHARE_ACTIVITY\"],\\n        \"activityId\": 2,\\n        \"beginTime\": \"2023-01-10 00:00:00\",\\n        \"endTime\": \"2023-01-10 23:59:59\"\\n    }', '期望值': '200', '期望结果': '{\\n\\t\"code\": 200,\\n\\t\"message\": \"操作成功\",\\n\\t\"data\": {\\n\\t\\t\"pageNum\": 1,\\n\\t\\t\"pageSize\": 10,\\n\\t\\t\"totalPage\": 0,\\n\\t\\t\"total\": 0,\\n\\t\\t\"list\": []\\n\\t}\\n}', '数据库校验结果': 1}" ]
+        } ],
+        "uid" : "e1f565f78e78defef090b00cd9b56805"
+      }, {
+        "name" : "test_lottery002",
+        "children" : [ {
+          "name" : "查询用户抽奖次数收支明细接口_001",
+          "uid" : "e3df5157b1b05f5",
+          "parentUid" : "b4900f76824d9614a8eda27fe3ab9db8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1676973146197,
+            "stop" : 1676973146363,
+            "duration" : 166
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "{'版本': 'MIGUMS2.10.0.0_Mirror', '模块': 1, '作者': 'Q', '用例名称': 'test_lottery002', '用例标题': '查询用户抽奖次数收支明细接口_001', '功能': '拆盲盒', '请求方式': 'post', '请求地址': 'https://t-xiaofa-gateway.aegis-info.com/mall-lawyer/activity/lottery/times/use', '请求头': '{\"Content-Type\":\"application/json\"}', 'token': 1, '请求参数': '{\\n        \"platform\": \"XIAOFA_MINGLV\",\\n        \"eventTypes\": [\"SHARE_ACTIVITY\"],\\n        \"activityId\": 2,\\n        \"beginTime\": \"2023-01-10 00:00:00\",\\n        \"endTime\": \"2023-01-10 23:59:59\"\\n    }', '期望值': '200', '期望结果': '{\\n\\t\"code\": 200,\\n\\t\"message\": \"操作成功\",\\n\\t\"data\": {\\n\\t\\t\"pageNum\": 1,\\n\\t\\t\"pageSize\": 10,\\n\\t\\t\"totalPage\": 0,\\n\\t\\t\"total\": 0,\\n\\t\\t\"list\": []\\n\\t}\\n}', '数据库校验结果': 1}" ]
+        } ],
+        "uid" : "b4900f76824d9614a8eda27fe3ab9db8"
+      } ],
+      "uid" : "76ef31b32676aad243441cdbf5c36f43"
+    }, {
+      "name" : "test.test_times001",
+      "children" : [ {
+        "name" : "查询用户抽奖次数收支明细接口_001",
+        "uid" : "45ae388dfb7c3ed7",
+        "parentUid" : "566ec91006e654f08bf6c04933eb7707",
+        "status" : "passed",
+        "time" : {
+          "start" : 1676973146365,
+          "stop" : 1676973146534,
+          "duration" : 169
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'版本': 'MIGUMS2.10.0.0_Mirror', '模块': 1, '作者': 'Q', '用例名称': 'test_times001', '用例标题': '查询用户抽奖次数收支明细接口_001', '功能': '拆盲盒', '请求方式': 'post', '请求地址': 'https://t-xiaofa-gateway.aegis-info.com/mall-lawyer/activity/lottery/times/use', '请求头': '{\"Content-Type\":\"application/json\"}', 'token': 1, '请求参数': '{\\n        \"platform\": \"XIAOFA_MINGLV\",\\n        \"eventTypes\": [\"SHARE_ACTIVITY\"],\\n        \"activityId\": 2,\\n        \"beginTime\": \"2023-01-10 00:00:00\",\\n        \"endTime\": \"2023-01-10 23:59:59\"\\n    }', '期望值': '200', '期望结果': '{\\n\\t\"code\": 200,\\n\\t\"message\": \"操作成功\",\\n\\t\"data\": {\\n\\t\\t\"pageNum\": 1,\\n\\t\\t\"pageSize\": 10,\\n\\t\\t\"totalPage\": 0,\\n\\t\\t\"total\": 0,\\n\\t\\t\"list\": []\\n\\t}\\n}', '数据库校验结果': 1}" ]
+      } ],
+      "uid" : "test.test_times001"
+    } ],
+    "uid" : "3b2e467b921b0ea8d4803b9c79d92d0c"
+  } ]
+}

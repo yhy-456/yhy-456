@@ -1,0 +1,64 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-AM8LCRQ",
+    "children" : [ {
+      "name" : "133236-MainThread",
+      "children" : [ {
+        "name" : "查询用户抽奖次数收支明细接口_001",
+        "uid" : "9894993ca092aff3",
+        "parentUid" : "db466b91845c90020cdbef0ed7383bc0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1676973146024,
+          "stop" : 1676973146195,
+          "duration" : 171
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'版本': 'MIGUMS2.10.0.0_Mirror', '模块': 1, '作者': 'Q', '用例名称': 'test_lottery001', '用例标题': '查询用户抽奖次数收支明细接口_001', '功能': '拆盲盒', '请求方式': 'post', '请求地址': 'https://t-xiaofa-gateway.aegis-info.com/mall-lawyer/activity/lottery/times/use', '请求头': '{\"Content-Type\":\"application/json\"}', 'token': 1, '请求参数': '{\\n        \"platform\": \"XIAOFA_MINGLV\",\\n        \"eventTypes\": [\"SHARE_ACTIVITY\"],\\n        \"activityId\": 2,\\n        \"beginTime\": \"2023-01-10 00:00:00\",\\n        \"endTime\": \"2023-01-10 23:59:59\"\\n    }', '期望值': '200', '期望结果': '{\\n\\t\"code\": 200,\\n\\t\"message\": \"操作成功\",\\n\\t\"data\": {\\n\\t\\t\"pageNum\": 1,\\n\\t\\t\"pageSize\": 10,\\n\\t\\t\"totalPage\": 0,\\n\\t\\t\"total\": 0,\\n\\t\\t\"list\": []\\n\\t}\\n}', '数据库校验结果': 1}" ]
+      }, {
+        "name" : "查询用户抽奖次数收支明细接口_001",
+        "uid" : "e3df5157b1b05f5",
+        "parentUid" : "db466b91845c90020cdbef0ed7383bc0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1676973146197,
+          "stop" : 1676973146363,
+          "duration" : 166
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'版本': 'MIGUMS2.10.0.0_Mirror', '模块': 1, '作者': 'Q', '用例名称': 'test_lottery002', '用例标题': '查询用户抽奖次数收支明细接口_001', '功能': '拆盲盒', '请求方式': 'post', '请求地址': 'https://t-xiaofa-gateway.aegis-info.com/mall-lawyer/activity/lottery/times/use', '请求头': '{\"Content-Type\":\"application/json\"}', 'token': 1, '请求参数': '{\\n        \"platform\": \"XIAOFA_MINGLV\",\\n        \"eventTypes\": [\"SHARE_ACTIVITY\"],\\n        \"activityId\": 2,\\n        \"beginTime\": \"2023-01-10 00:00:00\",\\n        \"endTime\": \"2023-01-10 23:59:59\"\\n    }', '期望值': '200', '期望结果': '{\\n\\t\"code\": 200,\\n\\t\"message\": \"操作成功\",\\n\\t\"data\": {\\n\\t\\t\"pageNum\": 1,\\n\\t\\t\"pageSize\": 10,\\n\\t\\t\"totalPage\": 0,\\n\\t\\t\"total\": 0,\\n\\t\\t\"list\": []\\n\\t}\\n}', '数据库校验结果': 1}" ]
+      }, {
+        "name" : "查询用户抽奖次数收支明细接口_001",
+        "uid" : "45ae388dfb7c3ed7",
+        "parentUid" : "db466b91845c90020cdbef0ed7383bc0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1676973146365,
+          "stop" : 1676973146534,
+          "duration" : 169
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'版本': 'MIGUMS2.10.0.0_Mirror', '模块': 1, '作者': 'Q', '用例名称': 'test_times001', '用例标题': '查询用户抽奖次数收支明细接口_001', '功能': '拆盲盒', '请求方式': 'post', '请求地址': 'https://t-xiaofa-gateway.aegis-info.com/mall-lawyer/activity/lottery/times/use', '请求头': '{\"Content-Type\":\"application/json\"}', 'token': 1, '请求参数': '{\\n        \"platform\": \"XIAOFA_MINGLV\",\\n        \"eventTypes\": [\"SHARE_ACTIVITY\"],\\n        \"activityId\": 2,\\n        \"beginTime\": \"2023-01-10 00:00:00\",\\n        \"endTime\": \"2023-01-10 23:59:59\"\\n    }', '期望值': '200', '期望结果': '{\\n\\t\"code\": 200,\\n\\t\"message\": \"操作成功\",\\n\\t\"data\": {\\n\\t\\t\"pageNum\": 1,\\n\\t\\t\"pageSize\": 10,\\n\\t\\t\"totalPage\": 0,\\n\\t\\t\"total\": 0,\\n\\t\\t\"list\": []\\n\\t}\\n}', '数据库校验结果': 1}" ]
+      } ],
+      "uid" : "db466b91845c90020cdbef0ed7383bc0"
+    } ],
+    "uid" : "81b2f7d9fc00ccea07bbd947496a5298"
+  } ]
+}

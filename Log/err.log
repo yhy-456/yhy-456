@@ -1,0 +1,222 @@
+[ERROR 2023-02-06 15:04:13]数据库连接错误，错误信息：(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-06 15:05:03]数据库连接成功
+[ERROR 2023-02-06 15:05:03]数据库连接错误，错误信息：(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-06 15:05:54]数据库连接成功
+[ERROR 2023-02-06 15:05:54]数据库连接错误，错误信息：(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-06 15:05:59]数据库连接错误，错误信息：(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-06 15:06:42]数据库连接错误，错误信息：(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-06 15:07:04]数据库连接错误，错误信息：(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-06 15:08:23]数据库连接错误，错误信息：(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-06 15:11:21]数据库连接错误，错误信息：(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-06 15:12:04]数据库连接错误，错误信息：(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-06 15:12:11]数据库连接错误，错误信息：(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-06 15:13:11]数据库连接错误，错误信息：(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-06 15:32:50]数据库连接错误
+[ERROR 2023-02-06 15:33:14]数据库连接错误
+[ERROR 2023-02-06 15:36:00]数据库连接错误
+[ERROR 2023-02-06 15:36:22]数据库连接错误
+[ERROR 2023-02-06 15:36:33]数据库连接错误
+[ERROR 2023-02-06 15:37:22]数据库连接错误
+[ERROR 2023-02-06 15:39:44]数据库连接错误(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-06 15:40:42]数据库连接错误(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-06 15:41:01]数据库连接错误(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-06 15:41:35]数据库连接错误(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-06 15:43:44]数据库连接错误(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-06 15:44:18]数据库连接错误(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-06 15:45:00]数据库连接错误(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-06 15:45:16]数据库连接错误(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-06 15:45:32]数据库连接错误(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-06 15:48:31]数据库连接错误(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-06 15:48:50]数据库连接错误(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-06 15:49:03]数据库连接错误(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-06 15:50:56]数据库连接错误(1049, "Unknown database 'xiaofa_lawye'")
+[ERROR 2023-02-08 11:46:56]result_json != check_json，result_json为：{'code': 200, 'message': '操作成功', 'data': {'pageNum': 1, 'pageSize': 10, 'totalPage': 1, 'total': 2, 'list': [{'id': 4729, 'platform': 1, 'userId': 393014, 'eventType': 3, 'description': '活动分享', 'status': 1, 'createBy': 393014, 'createTime': '2023-01-10 16:49:04', 'updateBy': 393014, 'updateTime': '2023-01-10 16:51:17'}, {'id': 4728, 'platform': 1, 'userId': 393014, 'eventType': 3, 'description': '活动分享', 'status': 1, 'createBy': 393014, 'createTime': '2023-01-10 16:45:24', 'updateBy': 393014, 'updateTime': '2023-01-10 16:51:23'}]}},check_json为：{'code': 401, 'data': 'Full authentication is required to access this resource', 'message': '未登录或登录已过期，请重新登录~'}
+[ERROR 2023-02-08 11:53:42]result_json != check_json，result_json为：{'code': 200, 'message': '操作成功', 'data': {'pageNum': 1, 'pageSize': 10, 'totalPage': 1, 'total': 2, 'list': [{'id': 4729, 'platform': 1, 'userId': 393014, 'eventType': 3, 'description': '活动分享', 'status': 1, 'createBy': 393014, 'createTime': '2023-01-10 16:49:04', 'updateBy': 393014, 'updateTime': '2023-01-10 16:51:17'}, {'id': 4728, 'platform': 1, 'userId': 393014, 'eventType': 3, 'description': '活动分享', 'status': 1, 'createBy': 393014, 'createTime': '2023-01-10 16:45:24', 'updateBy': 393014, 'updateTime': '2023-01-10 16:51:23'}]}},check_json为：{'code': 401, 'data': 'Full authentication is required to access this resource', 'message': '未登录或登录已过期，请重新登录~'}
+[ERROR 2023-02-08 13:54:55]result_json != check_json，result_json为：{'code': 200, 'message': '操作成功', 'data': {'pageNum': 1, 'pageSize': 10, 'totalPage': 1, 'total': 2, 'list': [{'id': 4729, 'platform': 1, 'userId': 393014, 'eventType': 3, 'description': '活动分享', 'status': 1, 'createBy': 393014, 'createTime': '2023-01-10 16:49:04', 'updateBy': 393014, 'updateTime': '2023-01-10 16:51:17'}, {'id': 4728, 'platform': 1, 'userId': 393014, 'eventType': 3, 'description': '活动分享', 'status': 1, 'createBy': 393014, 'createTime': '2023-01-10 16:45:24', 'updateBy': 393014, 'updateTime': '2023-01-10 16:51:23'}]}},check_json为：{'code': 401, 'data': 'Full authentication is required to access this resource', 'message': '未登录或登录已过期，请重新登录~'}
+[ERROR 2023-02-09 14:45:00]result_json != check_json，result_json为：{'code': 200, 'message': '操作成功', 'data': {'pageNum': 1, 'pageSize': 10, 'totalPage': 1, 'total': 2, 'list': [{'id': 4729, 'platform': 1, 'userId': 393014, 'eventType': 3, 'description': '活动分享', 'status': 1, 'createBy': 393014, 'createTime': '2023-01-10 16:49:04', 'updateBy': 393014, 'updateTime': '2023-01-10 16:51:17'}, {'id': 4728, 'platform': 1, 'userId': 393014, 'eventType': 3, 'description': '活动分享', 'status': 1, 'createBy': 393014, 'createTime': '2023-01-10 16:45:24', 'updateBy': 393014, 'updateTime': '2023-01-10 16:51:23'}]}},check_json为：{'code': 401, 'data': 'Full authentication is required to access this resource', 'message': '未登录或登录已过期，请重新登录~'}
+[ERROR 2023-02-14 10:16:16]https://t-xiaofa-gateway.aegis-info.com/mall-lawyer/activity/lottery/times/use,请求失败
+[ERROR 2023-02-14 15:06:52]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:06:52]logs目录已存在：E:\auto_test\new_interface_auto/test_case/cmdb_app
+[ERROR 2023-02-14 15:07:02]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:07:02]logs目录已存在：E:\auto_test\new_interface_auto/test_case/cmdb_app
+[ERROR 2023-02-14 15:10:32]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:10:32]logs目录已存在：E:\auto_test\new_interface_auto/test_case/cmdb_app
+[ERROR 2023-02-14 15:13:43]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:13:43]logs目录已存在：E:\auto_test\new_interface_auto/test_case/cmdb_app
+[ERROR 2023-02-14 15:14:50]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:14:50]logs目录已存在：E:\auto_test\new_interface_auto/test_case/cmdb_app
+[ERROR 2023-02-14 15:16:12]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:16:12]logs目录已存在：E:\auto_test\new_interface_auto/test_case/cmdb_app
+[ERROR 2023-02-14 15:16:25]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:16:25]logs目录已存在：E:\auto_test\new_interface_auto/test_case/cmdb_app
+[ERROR 2023-02-14 15:17:22]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:17:22]logs目录已存在：E:\auto_test\new_interface_auto/test_case/cmdb_app
+[ERROR 2023-02-14 15:17:43]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:17:43]logs目录已存在：E:\auto_test\new_interface_auto/test_case/cmdb_app
+[ERROR 2023-02-14 15:17:55]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:17:55]logs目录已存在：E:\auto_test\new_interface_auto/test_case/cmdb_app
+[ERROR 2023-02-14 15:18:11]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:18:11]logs目录已存在：E:\auto_test\new_interface_auto/test_case/cmdb_app
+[ERROR 2023-02-14 15:18:40]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:18:40]logs目录已存在：E:\auto_test\new_interface_auto/test_case/cmdb_app
+[ERROR 2023-02-14 15:23:35]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:23:35]logs目录已存在：E:\auto_test\new_interface_auto/test_case/cmdb_app
+[ERROR 2023-02-14 15:23:47]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:23:47]logs目录已存在：E:\auto_test\new_interface_auto/test_case/cmdb_app
+[ERROR 2023-02-14 15:26:02]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:26:42]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:26:42]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 15:27:10]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:27:10]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 15:27:30]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:27:30]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 15:30:11]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:30:11]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 15:33:10]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:33:10]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 15:34:24]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:34:24]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 15:34:40]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:34:40]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 15:35:14]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:35:14]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 15:35:58]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:35:58]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 15:36:29]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:36:29]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 15:36:46]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:36:46]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 15:37:17]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:37:17]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 15:37:31]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:37:31]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 15:40:37]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:40:37]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 15:41:05]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:41:05]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 15:41:22]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:41:22]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 15:41:31]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:41:31]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 15:42:01]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:42:01]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 15:42:19]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:42:19]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 15:42:42]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:42:42]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 15:43:44]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:43:44]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 15:52:39]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 15:52:39]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 16:21:12]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 16:21:53]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 16:21:53]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 16:39:00]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 16:39:00]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-14 16:40:29]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-14 16:40:29]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-15 11:07:59]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-15 11:07:59]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-15 11:09:02]code断言错误，result_code为：401,check_code为：200
+[ERROR 2023-02-16 16:38:55]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-16 16:38:55]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-16 16:57:15]logs目录已存在：/root/python/new_interface_auto/test_case/test
+[ERROR 2023-02-16 16:57:15]logs目录已存在：/root/python/new_interface_auto/test_case/a-service
+[ERROR 2023-02-16 16:58:20]logs目录已存在：/root/python/new_interface_auto/test_case/test
+[ERROR 2023-02-16 16:58:20]logs目录已存在：/root/python/new_interface_auto/test_case/a-service
+[ERROR 2023-02-16 17:00:19]code断言错误，result_code为：401,check_code为：200
+[ERROR 2023-02-17 09:11:09]logs目录已存在：/root/python/new_interface_auto/test_case/test
+[ERROR 2023-02-17 09:11:09]logs目录已存在：/root/python/new_interface_auto/test_case/a-service
+[ERROR 2023-02-17 09:11:09]code断言错误，result_code为：401,check_code为：200
+[ERROR 2023-02-17 09:12:00]logs目录已存在：/root/python/new_interface_auto/test_case/test
+[ERROR 2023-02-17 09:12:00]logs目录已存在：/root/python/new_interface_auto/test_case/a-service
+[ERROR 2023-02-17 09:12:00]code断言错误，result_code为：401,check_code为：200
+[ERROR 2023-02-17 09:12:00]code断言错误，result_code为：401,check_code为：200
+[ERROR 2023-02-17 09:12:00]code断言错误，result_code为：401,check_code为：200
+[ERROR 2023-02-17 09:13:30]logs目录已存在：/root/python/new_interface_auto/test_case/test
+[ERROR 2023-02-17 09:13:30]logs目录已存在：/root/python/new_interface_auto/test_case/a-service
+[ERROR 2023-02-17 09:13:30]code断言错误，result_code为：401,check_code为：200
+[ERROR 2023-02-17 09:14:47]logs目录已存在：/root/python/new_interface_auto/test_case/test
+[ERROR 2023-02-17 09:14:47]logs目录已存在：/root/python/new_interface_auto/test_case/a-service
+[ERROR 2023-02-17 09:14:47]code断言错误，result_code为：401,check_code为：200
+[ERROR 2023-02-17 09:16:35]logs目录已存在：/root/python/new_interface_auto/test_case/test
+[ERROR 2023-02-17 09:16:35]logs目录已存在：/root/python/new_interface_auto/test_case/a-service
+[ERROR 2023-02-17 09:16:35]code断言错误，result_code为：401,check_code为：200
+[ERROR 2023-02-17 09:58:58]logs目录已存在：/root/python/new_interface_auto/test_case/test
+[ERROR 2023-02-17 09:58:58]logs目录已存在：/root/python/new_interface_auto/test_case/a-service
+[ERROR 2023-02-17 09:58:58]code断言错误，result_code为：401,check_code为：200
+[ERROR 2023-02-17 10:01:20]logs目录已存在：/root/python/new_interface_auto/test_case/test
+[ERROR 2023-02-17 10:01:20]logs目录已存在：/root/python/new_interface_auto/test_case/a-service
+[ERROR 2023-02-17 10:01:20]code断言错误，result_code为：401,check_code为：200
+[ERROR 2023-02-17 10:01:52]logs目录已存在：/root/python/new_interface_auto/test_case/test
+[ERROR 2023-02-17 10:01:52]logs目录已存在：/root/python/new_interface_auto/test_case/a-service
+[ERROR 2023-02-17 10:01:52]code断言错误，result_code为：401,check_code为：200
+[ERROR 2023-02-17 10:03:07]logs目录已存在：/root/python/new_interface_auto/test_case/test
+[ERROR 2023-02-17 10:03:07]logs目录已存在：/root/python/new_interface_auto/test_case/a-service
+[ERROR 2023-02-17 10:03:08]code断言错误，result_code为：401,check_code为：200
+[ERROR 2023-02-17 10:08:29]logs目录已存在：/root/python/new_interface_auto/test_case/test
+[ERROR 2023-02-17 10:08:29]logs目录已存在：/root/python/new_interface_auto/test_case/a-service
+[ERROR 2023-02-17 10:08:29]code断言错误，result_code为：401,check_code为：200
+[ERROR 2023-02-17 10:08:45]logs目录已存在：/root/python/new_interface_auto/test_case/test
+[ERROR 2023-02-17 10:08:45]logs目录已存在：/root/python/new_interface_auto/test_case/a-service
+[ERROR 2023-02-17 10:08:45]code断言错误，result_code为：401,check_code为：200
+[ERROR 2023-02-17 10:59:15]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-17 10:59:15]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-17 11:02:09]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-17 11:02:09]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-17 14:24:11]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-17 14:24:11]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-17 14:37:52]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-17 14:37:52]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-17 14:39:49]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-17 14:39:49]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-20 17:25:50]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-20 17:25:50]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-20 17:29:13]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-20 17:29:13]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-20 17:29:37]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-20 17:29:37]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-20 17:30:36]logs目录已存在：E:\auto_test\new_interface_auto/test_case/test
+[ERROR 2023-02-20 17:30:36]logs目录已存在：E:\auto_test\new_interface_auto/test_case/a-service
+[ERROR 2023-02-21 16:43:52]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/test
+[ERROR 2023-02-21 16:43:52]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/a-service
+[ERROR 2023-02-21 17:06:53]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/test
+[ERROR 2023-02-21 17:06:53]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/a-service
+[ERROR 2023-02-21 17:15:13]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/test
+[ERROR 2023-02-21 17:15:13]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/a-service
+[ERROR 2023-02-21 17:15:55]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/test
+[ERROR 2023-02-21 17:15:55]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/a-service
+[ERROR 2023-02-21 17:36:51]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/test
+[ERROR 2023-02-21 17:36:51]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/a-service
+[ERROR 2023-02-21 17:37:38]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/test
+[ERROR 2023-02-21 17:37:38]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/a-service
+[ERROR 2023-02-21 17:38:29]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/test
+[ERROR 2023-02-21 17:38:29]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/a-service
+[ERROR 2023-02-21 17:38:41]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/test
+[ERROR 2023-02-21 17:38:41]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/a-service
+[ERROR 2023-02-21 17:39:18]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/test
+[ERROR 2023-02-21 17:39:18]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/a-service
+[ERROR 2023-02-21 17:40:07]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/test
+[ERROR 2023-02-21 17:40:07]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/a-service
+[ERROR 2023-02-21 17:43:44]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/test
+[ERROR 2023-02-21 17:43:44]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/a-service
+[ERROR 2023-02-21 17:44:35]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/test
+[ERROR 2023-02-21 17:44:35]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/a-service
+[ERROR 2023-02-21 17:45:16]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/test
+[ERROR 2023-02-21 17:45:16]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/a-service
+[ERROR 2023-02-21 17:45:35]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/test
+[ERROR 2023-02-21 17:45:35]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/a-service
+[ERROR 2023-02-21 17:45:43]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/test
+[ERROR 2023-02-21 17:45:43]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/a-service
+[ERROR 2023-02-21 17:46:27]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/test
+[ERROR 2023-02-21 17:46:27]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/a-service
+[ERROR 2023-02-21 17:46:41]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/test
+[ERROR 2023-02-21 17:46:41]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/a-service
+[ERROR 2023-02-21 17:48:30]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/test
+[ERROR 2023-02-21 17:48:30]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/a-service
+[ERROR 2023-02-21 17:50:35]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/test
+[ERROR 2023-02-21 17:50:35]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/a-service
+[ERROR 2023-02-21 17:51:48]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/test
+[ERROR 2023-02-21 17:51:48]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/a-service
+[ERROR 2023-02-21 17:52:25]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/test
+[ERROR 2023-02-21 17:52:25]logs目录已存在：C:\work\Software\pycharmjiekou\jeikou_github\qhf\new_interface_auto/test_case/a-service

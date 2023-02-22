@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Feb 21 17:52:26 CST 2023","Tue Feb 21 17:52:26 CST 2023","171","test_case.a-service","test_lottery001","","","","查询用户抽奖次数收支明细接口_001","版本:MIGUMS2.10.0.0_Mirror|模块:1|作者:Q|用例标题:查询用户抽奖次数收支明细接口_001"
+"passed","Tue Feb 21 17:52:26 CST 2023","Tue Feb 21 17:52:26 CST 2023","166","test_case.a-service","test_lottery002","","","","查询用户抽奖次数收支明细接口_001","版本:MIGUMS2.10.0.0_Mirror|模块:1|作者:Q|用例标题:查询用户抽奖次数收支明细接口_001"
+"passed","Tue Feb 21 17:52:26 CST 2023","Tue Feb 21 17:52:26 CST 2023","169","test_case.test","test_times001","","","","查询用户抽奖次数收支明细接口_001","版本:MIGUMS2.10.0.0_Mirror|模块:1|作者:Q|用例标题:查询用户抽奖次数收支明细接口_001"

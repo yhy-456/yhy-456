@@ -1,0 +1,148 @@
+{
+  "uid" : "9894993ca092aff3",
+  "name" : "查询用户抽奖次数收支明细接口_001",
+  "fullName" : "test_case.a-service.test_lottery001#test_lottery001",
+  "historyId" : "573275f515edcc318ddf8bb708779a3a",
+  "time" : {
+    "start" : 1676973146024,
+    "stop" : 1676973146195,
+    "duration" : 171
+  },
+  "description" : "版本:MIGUMS2.10.0.0_Mirror|模块:1|作者:Q|用例标题:查询用户抽奖次数收支明细接口_001",
+  "descriptionHtml" : "<p>版本:MIGUMS2.10.0.0_Mirror|模块:1|作者:Q|用例标题:查询用户抽奖次数收支明细接口_001</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "版本:MIGUMS2.10.0.0_Mirror|模块:1|作者:Q|用例标题:查询用户抽奖次数收支明细接口_001",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "step1:发送请求并返回数据",
+      "time" : {
+        "start" : 1676973146024,
+        "stop" : 1676973146194,
+        "duration" : 170
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "step2:校验返回状态",
+      "time" : {
+        "start" : 1676973146194,
+        "stop" : 1676973146194,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "step3:校验返回结果",
+      "time" : {
+        "start" : 1676973146194,
+        "stop" : 1676973146195,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "step4:校验数据库",
+      "time" : {
+        "start" : 1676973146195,
+        "stop" : 1676973146195,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "31e4e2b351076ad8",
+      "name" : "log",
+      "source" : "31e4e2b351076ad8.txt",
+      "type" : "text/plain",
+      "size" : 1508
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "MIGUMS2.10.0.0_Mirror"
+  }, {
+    "name" : "feature",
+    "value" : "1"
+  }, {
+    "name" : "story",
+    "value" : "拆盲盒"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case.a-service"
+  }, {
+    "name" : "suite",
+    "value" : "test_lottery001"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-AM8LCRQ"
+  }, {
+    "name" : "thread",
+    "value" : "133236-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.a-service.test_lottery001"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "cdata",
+    "value" : "{'版本': 'MIGUMS2.10.0.0_Mirror', '模块': 1, '作者': 'Q', '用例名称': 'test_lottery001', '用例标题': '查询用户抽奖次数收支明细接口_001', '功能': '拆盲盒', '请求方式': 'post', '请求地址': 'https://t-xiaofa-gateway.aegis-info.com/mall-lawyer/activity/lottery/times/use', '请求头': '{\"Content-Type\":\"application/json\"}', 'token': 1, '请求参数': '{\\n        \"platform\": \"XIAOFA_MINGLV\",\\n        \"eventTypes\": [\"SHARE_ACTIVITY\"],\\n        \"activityId\": 2,\\n        \"beginTime\": \"2023-01-10 00:00:00\",\\n        \"endTime\": \"2023-01-10 23:59:59\"\\n    }', '期望值': '200', '期望结果': '{\\n\\t\"code\": 200,\\n\\t\"message\": \"操作成功\",\\n\\t\"data\": {\\n\\t\\t\"pageNum\": 1,\\n\\t\\t\"pageSize\": 10,\\n\\t\\t\"totalPage\": 0,\\n\\t\\t\"total\": 0,\\n\\t\\t\"list\": []\\n\\t}\\n}', '数据库校验结果': 1}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9894993ca092aff3.json",
+  "parameterValues" : [ "{'版本': 'MIGUMS2.10.0.0_Mirror', '模块': 1, '作者': 'Q', '用例名称': 'test_lottery001', '用例标题': '查询用户抽奖次数收支明细接口_001', '功能': '拆盲盒', '请求方式': 'post', '请求地址': 'https://t-xiaofa-gateway.aegis-info.com/mall-lawyer/activity/lottery/times/use', '请求头': '{\"Content-Type\":\"application/json\"}', 'token': 1, '请求参数': '{\\n        \"platform\": \"XIAOFA_MINGLV\",\\n        \"eventTypes\": [\"SHARE_ACTIVITY\"],\\n        \"activityId\": 2,\\n        \"beginTime\": \"2023-01-10 00:00:00\",\\n        \"endTime\": \"2023-01-10 23:59:59\"\\n    }', '期望值': '200', '期望结果': '{\\n\\t\"code\": 200,\\n\\t\"message\": \"操作成功\",\\n\\t\"data\": {\\n\\t\\t\"pageNum\": 1,\\n\\t\\t\"pageSize\": 10,\\n\\t\\t\"totalPage\": 0,\\n\\t\\t\"total\": 0,\\n\\t\\t\"list\": []\\n\\t}\\n}', '数据库校验结果': 1}" ]
+}

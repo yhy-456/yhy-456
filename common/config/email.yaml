@@ -1,0 +1,23 @@
+
+
+email:
+ smtpserver: smtp.qq.com
+ sender_qq: 3210192293@qq.com
+ password: FDSArewq1
+ pwd: zlbwjumgfsludgga
+ sender_qq_mail: 3210192293@qq.com
+ receiver: 3210192293@qq.com
+ mail_content: 你好，这是使用python登录qq邮箱发邮件的测试
+ mail_title: Maxsu的邮件
+ file: None
+
+email2:
+ smtpserver: smtp.qq.com
+ sender_qq: 3210192293@qq.com
+ password: FDSArewq1
+ pwd: lbwjumgfsludgga
+ sender_qq_mail: 3210192293@qq.com
+ receiver: 3210192293@qq.com
+ mail_content: 你好，这是使用python登录qq邮箱发邮件的测试
+ mail_title: Maxsu的邮件
+
